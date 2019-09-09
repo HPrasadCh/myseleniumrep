@@ -1,1 +1,3 @@
 Hello Git
+
+content update chking on existing file
